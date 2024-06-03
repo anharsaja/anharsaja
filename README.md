@@ -16,6 +16,8 @@ JSON            17 mins         ▓░░░░░░░░░░░░░░░
 Git Config      6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
 
 ![ANHAR-MUKHLIS-3-6-2024](https://github.com/anharsaja/anharsaja/assets/112670704/f0b4379b-70c5-46eb-a012-9e6fad31067b)
+https://media.giphy.com/media/lc12kpeQFhNmVb7YLq/giphy.gif?cid=790b76111rlwexkmgq56v3p1qg13r2smjxi3ajodkagncvc8&ep=v1_gifs_search&rid=giphy.gif&ct=g
+https://media.giphy.com/media/FLbMRL3o3FzODu2M0l/giphy.gif?cid=790b76111rlwexkmgq56v3p1qg13r2smjxi3ajodkagncvc8&ep=v1_gifs_search&rid=giphy.gif&ct=g
 
 
 
