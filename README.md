@@ -17,7 +17,12 @@ Git Config      6 mins          ▒░░░░░░░░░░░░░░░
 
 ![ANHAR-MUKHLIS-3-6-2024](https://github.com/anharsaja/anharsaja/assets/112670704/f0b4379b-70c5-46eb-a012-9e6fad31067b)
 
-![ANHAR-MUKHLIS-3-6-2024](https://github.com/anharsaja/anharsaja/giphy.webp)
+![9vJr](https://github.com/anharsaja/anharsaja/assets/112670704/4ca18694-e72b-415a-ba6b-1b02b1593331)
+![9vJw](https://github.com/anharsaja/anharsaja/assets/112670704/04d54c75-a4d5-4635-bb2b-eac505decd51)
+![9vJv](https://github.com/anharsaja/anharsaja/assets/112670704/e6ee2fa7-68c4-4d6f-a787-afe2b6e1ea97)
+![9vK0](https://github.com/anharsaja/anharsaja/assets/112670704/0f71b2e7-a77c-4ac1-8542-311e3c0456d9)
+![9vJt](https://github.com/anharsaja/anharsaja/assets/112670704/9932f27f-718a-4256-94c9-d3502542d258)
+
 
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
