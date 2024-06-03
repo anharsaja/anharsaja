@@ -15,8 +15,8 @@ JSON            17 mins         ▓░░░░░░░░░░░░░░░
 
 Git Config      6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
 
+![ANHAR-MUKHLIS-3-6-2024](https://github.com/anharsaja/anharsaja/assets/112670704/f0b4379b-70c5-46eb-a012-9e6fad31067b)
 
-![Graffiti-3-6-2024](https://github.com/anharsaja/anharsaja/assets/112670704/f75a95a9-f99d-4c81-95f0-402fb39aa077)
 
 
 # 💫 About Me:
