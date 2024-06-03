@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👊👊, I'm Anhar Mukhlis</h1>
-<h3 align="center">A passionate Backend developer from Indonesia</h3>
+<h3 align="center">A Newbie Backend developer from Indonesia</h3>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
 </div>
+
+TypeScript   7 hrs 46 mins   ████████████████░░░░░░░░░   63.63 %
+JavaScript   2 hrs 32 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.76 %
+CSS          1 hr 24 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.53 %
+JSON         17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+Git Config   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
 
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
@@ -30,12 +36,3 @@
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-
-
-https://github.com/anharsaja/anharsaja/assets/112670704/15eabe0a-69d2-41d1-a7e2-ad31eb608187
-
-
-
