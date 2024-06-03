@@ -16,10 +16,9 @@ JSON            17 mins         ▓░░░░░░░░░░░░░░░
 Git Config      6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
 
 ![ANHAR-MUKHLIS-3-6-2024](https://github.com/anharsaja/anharsaja/assets/112670704/f0b4379b-70c5-46eb-a012-9e6fad31067b)
-https://media.giphy.com/media/lc12kpeQFhNmVb7YLq/giphy.gif?cid=790b76111rlwexkmgq56v3p1qg13r2smjxi3ajodkagncvc8&ep=v1_gifs_search&rid=giphy.gif&ct=g
-https://media.giphy.com/media/FLbMRL3o3FzODu2M0l/giphy.gif?cid=790b76111rlwexkmgq56v3p1qg13r2smjxi3ajodkagncvc8&ep=v1_gifs_search&rid=giphy.gif&ct=g
 
 
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/lc12kpeQFhNmVb7YLq" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/trippy-mexico-alien-lc12kpeQFhNmVb7YLq">via GIPHY</a></p>
 
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
