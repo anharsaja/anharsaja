@@ -16,6 +16,9 @@ JSON            17 mins         ▓░░░░░░░░░░░░░░░
 Git Config      6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
 
 
+![Graffiti-3-6-2024](https://github.com/anharsaja/anharsaja/assets/112670704/f75a95a9-f99d-4c81-95f0-402fb39aa077)
+
+
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
