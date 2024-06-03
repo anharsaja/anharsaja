@@ -6,10 +6,15 @@
 </div>
 
 TypeScript   7 hrs 46 mins   ████████████████░░░░░░░░░   63.63 %
+
 JavaScript   2 hrs 32 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.76 %
+
 CSS          1 hr 24 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.53 %
+
 JSON         17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+
 Git Config   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+
 
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
