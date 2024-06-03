@@ -5,16 +5,6 @@
   <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
 </div>
 
-TypeScript      7 hrs 46 mins   ████████████████░░░░░░░░░   63.63 %
-
-JavaScript      2 hrs 32 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.76 %
-
-CSS             1 hr 24 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.53 %
-
-JSON            17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
-
-Git Config      6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
-
 ![ANHAR-MUKHLIS-3-6-2024](https://github.com/anharsaja/anharsaja/assets/112670704/f0b4379b-70c5-46eb-a012-9e6fad31067b)
 
 ![9vJr](https://github.com/anharsaja/anharsaja/assets/112670704/4ca18694-e72b-415a-ba6b-1b02b1593331)
