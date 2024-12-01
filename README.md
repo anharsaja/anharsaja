@@ -6,7 +6,7 @@
 </div>
 
 
-![ANHAR-MUKHLIS-3-6-2024](https://github.com/anharsaja/anharsaja/assets/112670704/f0b4379b-70c5-46eb-a012-9e6fad31067b)
+![snake gif](https://github.com/anharsaja/anharsaja/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
