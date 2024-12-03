@@ -13,7 +13,6 @@
 ![EndeavourOS](https://img.shields.io/badge/EndeavourOS-7C4DFF?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Gentoo](https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white)
 ![Config Master](https://img.shields.io/badge/Config_Master-FFD700?style=for-the-badge&logo=neovim&logoColor=black)
-![NVim Editor](https://img.shields.io/badge/NVim_Editor-32CD32?style=for-the-badge&logo=vim&logoColor=white)
 
 
 
