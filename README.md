@@ -2,17 +2,9 @@
 <h3 align="center">Back End Developer | Distro Hopper 🐧</h3>
 
 <div align="center">
-  <!-- <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"> -->
-<!-- <img src="https://raw.githubusercontent.com/anharsaja/anharsaja/main/assets/myhouse.gif" width="90%" height="450px"/> -->
+ <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
+ <img src="https://raw.githubusercontent.com/anharsaja/anharsaja/main/assets/myhouse.gif" width="90%" height="450px"/>
 <div align="center">
-  <img
-    src="https://www.gitskins.com/api/section/portrait?username=anharsaja&theme=aurora&style=terminal"
-    width="27%"
-  />
-  <img
-    src="https://www.gitskins.com/api/section/wordmark?username=anharsaja&theme=aurora&style=terminal"
-    width="72%"
-  />
 
    <!-- <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /> -->
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
